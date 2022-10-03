@@ -8,7 +8,6 @@
   },
   "author": "Sara Flores",
   "license": "ISC",
-  {
     "editor.codeActionsOnSave": {
       "source.fixAll.eslint": true
     },
@@ -27,4 +26,4 @@
     "typescript.suggestionActions.enabled": false,
     "typescript.updateImportsOnFileMove.enabled": "always"
   }
-}
+
